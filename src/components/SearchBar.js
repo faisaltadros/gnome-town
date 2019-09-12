@@ -27,6 +27,7 @@ class SearchBar extends Component {
           <div class="input-group-prepend">
             <span class="input-group-text" id="basic-addon1">
               <img
+                alt="gnome town"
                 className="gnome-logo"
                 src="https://cdn4.iconfinder.com/data/icons/gardening-planting-1/128/536_gardening-garden-gnome-512.png"
               />
