@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gnome-town/static/css/main.94be9298.chunk.css",
+    "main.js": "/gnome-town/static/js/main.91512765.chunk.js",
+    "main.js.map": "/gnome-town/static/js/main.91512765.chunk.js.map",
+    "runtime~main.js": "/gnome-town/static/js/runtime~main.90c07962.js",
+    "runtime~main.js.map": "/gnome-town/static/js/runtime~main.90c07962.js.map",
+    "static/js/2.a4431e6b.chunk.js": "/gnome-town/static/js/2.a4431e6b.chunk.js",
+    "static/js/2.a4431e6b.chunk.js.map": "/gnome-town/static/js/2.a4431e6b.chunk.js.map",
+    "index.html": "/gnome-town/index.html",
+    "precache-manifest.24eddd2a2824415735232025d59e0409.js": "/gnome-town/precache-manifest.24eddd2a2824415735232025d59e0409.js",
+    "service-worker.js": "/gnome-town/service-worker.js",
+    "static/css/main.94be9298.chunk.css.map": "/gnome-town/static/css/main.94be9298.chunk.css.map"
+  }
+}
